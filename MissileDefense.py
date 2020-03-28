@@ -1,5 +1,4 @@
 #!/bin/python3
-
 import os
 import sys
 
@@ -9,17 +8,13 @@ import sys
 def missileDefend(missiles):
     #
     # Write your code here.
-    # I don't think I need current_frequency...
-    current_frequency = 1
+    #
     hackerX_missile = 1
 
     for frequencies in missiles:
         # Remainder of frequencies and current_frequency / 2 = #hackerX_missiles
-
-        if frequencies[1] >= current_frequency + 2:
-            hackerX_missile +=1
-
-        current_frequency = frequencies[1]
+        if frequencies[1]//2 >= 2:
+            hackerX_missile += 1
 
     return hackerX_missile
 
