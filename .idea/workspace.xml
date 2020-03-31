@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae56beef-14d7-46c6-8c5a-a96403dca84f" name="Default Changelist" comment="" />
+    <list default="true" id="ae56beef-14d7-46c6-8c5a-a96403dca84f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Interview_SockMerchant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MissileDefense.py" beforeDir="false" afterPath="$PROJECT_DIR$/MissileDefense.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZduY7bqHbSUxRjODkq5ocqvOas" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,12 +34,35 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.MissileDefense">
+  <component name="RunManager" selected="Python.Interview_SockMerchant">
+    <configuration name="Interview_SockMerchant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearningProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview_SockMerchant.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="MeanMedianMode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -51,6 +82,9 @@
       <module name="LearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -70,6 +104,9 @@
       <module name="LearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -109,6 +146,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Interview_SockMerchant" />
         <item itemvalue="Python.MissileDefense" />
         <item itemvalue="Python.Operators" />
         <item itemvalue="Python.MeanMedianMode" />
@@ -126,7 +164,12 @@
       <option name="presentableId" value="Default" />
       <updated>1585181336733</updated>
       <workItem from="1585181346001" duration="670000" />
-      <workItem from="1585349076315" duration="1959000" />
+      <workItem from="1585349076315" duration="2869000" />
+      <workItem from="1585522221109" duration="39000" />
+      <workItem from="1585522317075" duration="78000" />
+      <workItem from="1585522426977" duration="4270000" />
+      <workItem from="1585608617104" duration="58000" />
+      <workItem from="1585608690093" duration="6654000" />
     </task>
     <servers />
   </component>
@@ -138,13 +181,29 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="147" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1585181743330" />
+    <state x="436" y="260" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585608671681">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="436" y="260" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.768@0.0.1366.768" timestamp="1585608671681" />
+    <state x="371" y="127" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585522244389">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="371" y="127" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.768@0.0.1366.768" timestamp="1585522244389" />
+    <state x="192" y="23" key="SettingsEditor" timestamp="1585609506117">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="192" y="23" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1585609506117" />
     <state x="218" y="96" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1585182017821">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="218" y="96" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1366.768@0.0.1366.768" timestamp="1585182017821" />
-    <state x="362" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1585349075062">
+    <state x="362" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1585608635683">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="362" y="216" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1585349075062" />
+    <state x="362" y="216" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1585608635683" />
+    <state x="348" y="92" width="670" height="676" key="search.everywhere.popup" timestamp="1585623865567">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="348" y="92" width="670" height="676" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1585623865567" />
   </component>
 </project>
