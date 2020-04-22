@@ -18,11 +18,13 @@ class MyMath():
             print("Improper values")
 
     # Recursively add the base case of k based on n
-    def recursiveMultiplication(self, n, k):
-        if n > 1:
-            return k + self.recursiveMultiplication(n-1, k)
-        elif n == 1:
-            return k
+    def recursiveMultiplication(self, n, p):
+        if p > 1:
+            return n * self.recursiveMultiplication(n, p - 1)
+        elif p == 1:
+            return n
+        elif p == 0:
+            return 1
     # Find the exponential value the base case of k based on n
     def recursiveExponent(self, n,k):
         if n > 1:
