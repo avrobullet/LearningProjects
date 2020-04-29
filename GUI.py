@@ -1,9 +1,8 @@
 import tkinter as tk
-from tkinter import filedialog, Text
-from os import listdir
-from os.path import isfile, join
-
-# # # Most likely be creating many classes for GUI...# # #
+# # # Most likely be creating ma
+# from tkinter import filedialog, Text
+# from os import listdir
+# from os.path import isfile, joinny classes for GUI...# # #
 # class DirectoryList
 # class Framework
 # class FileSelection
