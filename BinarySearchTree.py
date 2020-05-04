@@ -60,6 +60,6 @@ for i in range(T):
     data=int(input())
     root=myTree.insert(root,data)
 height=myTree.getHeight(root)
-#myTree.in_order_print(root)
+myTree.in_order_print(root)
 myTree.levelOrder(root)
-#print(height)
+print(height)
