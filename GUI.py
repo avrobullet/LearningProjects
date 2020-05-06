@@ -8,6 +8,8 @@ import tkinter as tk
 # class FileSelection
 
 # Set variables
+from tkinter import filedialog
+
 files = []
 filepath = ''
 root = tk.Tk()
