@@ -5,6 +5,7 @@ class MyMath():
               "Select multiplication by typing 'X Y multiplication'\n",
               "Select exponent by typing 'X Y exponent'\n",
               "Select factorial by typing 'X factorial'\n")
+        self.a = "hi"
 
     # Run function based on input
     def run(self, n, k, choice):
@@ -44,4 +45,5 @@ def main():
     mymath.run(int(n), int(k), mathchoice)
 # Find main to begin
 if __name__ == "__main__":
+    mymath = MyMath()
     main()

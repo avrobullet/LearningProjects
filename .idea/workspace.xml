@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae56beef-14d7-46c6-8c5a-a96403dca84f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeginnerCodingChallenges/NestedLogic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeginnerCodingChallenges/RuntimeTesting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeginnerCodingChallenges/Chest_XRay_AI_Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/BeginnerCodingChallenges/Chest_XRay_AI_Assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeginnerCodingChallenges/RecursiveCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/BeginnerCodingChallenges/RecursiveCase.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +36,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BeginnerCodingChallenges" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.RegEx">
     <configuration name="2DArraySummations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -197,6 +205,7 @@
       <workItem from="1586211484650" duration="3813000" />
       <workItem from="1586297597873" duration="3941000" />
       <workItem from="1590100955057" duration="2362000" />
+      <workItem from="1591735085469" duration="197000" />
     </task>
     <servers />
   </component>
