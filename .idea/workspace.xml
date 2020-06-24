@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae56beef-14d7-46c6-8c5a-a96403dca84f" name="Default Changelist" comment="Updating learning projects with some Machine Learning attributes">
-      <change afterPath="$PROJECT_DIR$/BeginnerCodingChallenges/TimeConversion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeginnerCodingChallenges/TimeConversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/BeginnerCodingChallenges/TimeConversion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +168,9 @@
       <module name="LearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\alexa\AppData\Local\Programs\Python\Python38\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BeginnerCodingChallenges" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -333,10 +336,10 @@
       <screen x="0" y="0" width="1200" height="1920" />
     </state>
     <state x="206" y="570" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1200.1920@0.0.1200.1920" timestamp="1592773492611" />
-    <state x="306" y="230" width="589" height="1690" key="search.everywhere.popup" timestamp="1591938313247">
+    <state x="306" y="230" width="672" height="1690" key="search.everywhere.popup" timestamp="1592971842001">
       <screen x="0" y="0" width="1200" height="1920" />
     </state>
-    <state x="306" y="230" width="589" height="1690" key="search.everywhere.popup/0.0.1200.1920@0.0.1200.1920" timestamp="1591938313247" />
+    <state x="306" y="230" width="672" height="1690" key="search.everywhere.popup/0.0.1200.1920@0.0.1200.1920" timestamp="1592971842001" />
     <state x="348" y="92" width="670" height="676" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1589239904753" />
   </component>
 </project>
