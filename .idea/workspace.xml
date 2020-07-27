@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ae56beef-14d7-46c6-8c5a-a96403dca84f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/InterviewCodingChallenges/RotateLeft.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="ae56beef-14d7-46c6-8c5a-a96403dca84f" name="Default Changelist" comment="Updating learning projects with some Machine Learning attributes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeginnerCodingChallenges/TimeConversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/BeginnerCodingChallenges/TimeConversion.py" afterDir="false" />
+>>>>>>> 41f2e5d14fa6f4b888a87ee774356027036b849e
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="LearningProjects" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,10 +49,10 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Statistics" />
@@ -52,14 +73,20 @@
       <recent name="$PROJECT_DIR$/BeginnerCodingChallenges" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.RotateLeft">
     <configuration name="DictionaryAndMaps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="Python.TimeConversion">
+    <configuration name="MatrixOperations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 41f2e5d14fa6f4b888a87ee774356027036b849e
       <module name="LearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< HEAD
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BeginnerCodingChallenges" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -67,6 +94,15 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BeginnerCodingChallenges/DictionaryAndMaps.py" />
+=======
+      <option name="SDK_HOME" value="C:\Users\alexa\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/MatrixOperations.py" />
+>>>>>>> 41f2e5d14fa6f4b888a87ee774356027036b849e
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,6 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="RotateLeft" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,6 +145,19 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InterviewCodingChallenges/RotateLeft.py" />
+=======
+    <configuration name="TimeConversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearningProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\alexa\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BeginnerCodingChallenges" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BeginnerCodingChallenges/TimeConversion.py" />
+>>>>>>> 41f2e5d14fa6f4b888a87ee774356027036b849e
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,13 +210,18 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="test_bed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 41f2e5d14fa6f4b888a87ee774356027036b849e
       <module name="LearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< HEAD
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -174,6 +229,15 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+=======
+      <option name="SDK_HOME" value="C:\Users\alexa\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BeginnerCodingChallenges" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BeginnerCodingChallenges/test_bed.py" />
+>>>>>>> 41f2e5d14fa6f4b888a87ee774356027036b849e
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,9 +248,15 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.RotateLeft" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.DictionaryAndMaps" />
+=======
+        <item itemvalue="Python.TimeConversion" />
+        <item itemvalue="Python.test_bed" />
+        <item itemvalue="Python.MatrixOperations" />
+>>>>>>> 41f2e5d14fa6f4b888a87ee774356027036b849e
         <item itemvalue="Python.RegEx" />
         <item itemvalue="Python.UnitTesting" />
       </list>
@@ -218,12 +288,44 @@
       <workItem from="1594695700353" duration="20000" />
       <workItem from="1595871605028" duration="166000" />
     </task>
+    <task id="LOCAL-00001" summary="Updating learning projects with some Machine Learning attributes">
+      <created>1591940204449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591940204449</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updating learning projects with some Machine Learning attributes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating learning projects with some Machine Learning attributes" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="669" y="195" key="#MatrixOperations" timestamp="1591927823090">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="669" y="195" key="#MatrixOperations/0.0.1920.1200@0.0.1920.1200" timestamp="1591927823090" />
+    <state x="669" y="195" key="#TimeConversion" timestamp="1592769271230">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="669" y="195" key="#TimeConversion/0.0.1920.1200@0.0.1920.1200" timestamp="1592769271230" />
     <state x="147" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585181743330">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -236,10 +338,62 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="371" y="127" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.768@0.0.1366.768" timestamp="1585522244389" />
+    <state x="669" y="195" key="#test_bed" timestamp="1592768862313">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="669" y="195" key="#test_bed/0.0.1920.1200@0.0.1920.1200" timestamp="1592768862312" />
+    <state width="1179" height="411" key="GridCell.Tab.0.bottom" timestamp="1591940252906">
+      <screen x="0" y="0" width="1200" height="1920" />
+    </state>
+    <state width="1179" height="411" key="GridCell.Tab.0.bottom/0.0.1200.1920@0.0.1200.1920" timestamp="1591940252906" />
+    <state width="1899" height="411" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1591928554571" />
+    <state width="1179" height="411" key="GridCell.Tab.0.center" timestamp="1591940252906">
+      <screen x="0" y="0" width="1200" height="1920" />
+    </state>
+    <state width="1179" height="411" key="GridCell.Tab.0.center/0.0.1200.1920@0.0.1200.1920" timestamp="1591940252906" />
+    <state width="1899" height="411" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1591928554571" />
+    <state width="1179" height="411" key="GridCell.Tab.0.left" timestamp="1591940252905">
+      <screen x="0" y="0" width="1200" height="1920" />
+    </state>
+    <state width="1179" height="411" key="GridCell.Tab.0.left/0.0.1200.1920@0.0.1200.1920" timestamp="1591940252905" />
+    <state width="1899" height="411" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1591928554571" />
+    <state width="1179" height="411" key="GridCell.Tab.0.right" timestamp="1591940252906">
+      <screen x="0" y="0" width="1200" height="1920" />
+    </state>
+    <state width="1179" height="411" key="GridCell.Tab.0.right/0.0.1200.1920@0.0.1200.1920" timestamp="1591940252906" />
+    <state width="1899" height="411" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1591928554571" />
+    <state width="1179" height="411" key="GridCell.Tab.1.bottom" timestamp="1591940252906">
+      <screen x="0" y="0" width="1200" height="1920" />
+    </state>
+    <state width="1179" height="411" key="GridCell.Tab.1.bottom/0.0.1200.1920@0.0.1200.1920" timestamp="1591940252906" />
+    <state width="1899" height="411" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1591928550770" />
+    <state width="1179" height="411" key="GridCell.Tab.1.center" timestamp="1591940252906">
+      <screen x="0" y="0" width="1200" height="1920" />
+    </state>
+    <state width="1179" height="411" key="GridCell.Tab.1.center/0.0.1200.1920@0.0.1200.1920" timestamp="1591940252906" />
+    <state width="1899" height="411" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1591928550770" />
+    <state width="1179" height="411" key="GridCell.Tab.1.left" timestamp="1591940252906">
+      <screen x="0" y="0" width="1200" height="1920" />
+    </state>
+    <state width="1179" height="411" key="GridCell.Tab.1.left/0.0.1200.1920@0.0.1200.1920" timestamp="1591940252906" />
+    <state width="1899" height="411" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1591928550770" />
+    <state width="1179" height="411" key="GridCell.Tab.1.right" timestamp="1591940252906">
+      <screen x="0" y="0" width="1200" height="1920" />
+    </state>
+    <state width="1179" height="411" key="GridCell.Tab.1.right/0.0.1200.1920@0.0.1200.1920" timestamp="1591940252906" />
+    <state width="1899" height="411" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1591928550770" />
     <state x="192" y="23" key="SettingsEditor" timestamp="1586211710047">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="192" y="23" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1586211710047" />
+    <state width="510" height="446" key="SwitcherDM" timestamp="1592769450433">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="510" height="446" key="SwitcherDM/0.0.1920.1200@0.0.1920.1200" timestamp="1592769450433" />
+    <state x="192" y="693" key="Vcs.Push.Dialog.v2" timestamp="1591940208332">
+      <screen x="0" y="0" width="1200" height="1920" />
+    </state>
+    <state x="192" y="693" key="Vcs.Push.Dialog.v2/0.0.1200.1920@0.0.1200.1920" timestamp="1591940208332" />
     <state x="218" y="96" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1585182017821">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -248,9 +402,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="362" y="216" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1585608635683" />
-    <state x="348" y="92" width="670" height="676" key="search.everywhere.popup" timestamp="1589239904753">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="206" y="570" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592773492611">
+      <screen x="0" y="0" width="1200" height="1920" />
     </state>
+    <state x="206" y="570" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1200.1920@0.0.1200.1920" timestamp="1592773492611" />
+    <state x="306" y="230" width="672" height="1690" key="search.everywhere.popup" timestamp="1592971842001">
+      <screen x="0" y="0" width="1200" height="1920" />
+    </state>
+    <state x="306" y="230" width="672" height="1690" key="search.everywhere.popup/0.0.1200.1920@0.0.1200.1920" timestamp="1592971842001" />
     <state x="348" y="92" width="670" height="676" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1589239904753" />
   </component>
 </project>
