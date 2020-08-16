@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae56beef-14d7-46c6-8c5a-a96403dca84f" name="Default Changelist" comment="Updating learning projects with some Machine Learning attributes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BeginnerCodingChallenges/TimeConversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/BeginnerCodingChallenges/TimeConversion.py" afterDir="false" />
-    </list>
+    <list default="true" id="ae56beef-14d7-46c6-8c5a-a96403dca84f" name="Default Changelist" comment="Updating learning projects with some Machine Learning attributes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Statistics" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OXIPLEX-TS_CSV-File_Conversion" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -105,6 +102,9 @@
       <module name="LearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\alexa\AppData\Local\Programs\Python\Python38\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BeginnerCodingChallenges" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -272,6 +272,10 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="669" y="195" key="#test_bed/0.0.1920.1200@0.0.1920.1200" timestamp="1592768862312" />
+    <state x="260" y="358" key="FileChooserDialogImpl" timestamp="1593497264447">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="260" y="358" key="FileChooserDialogImpl/0.0.1920.1200@0.0.1920.1200" timestamp="1593497264447" />
     <state width="1179" height="411" key="GridCell.Tab.0.bottom" timestamp="1591940252906">
       <screen x="0" y="0" width="1200" height="1920" />
     </state>
